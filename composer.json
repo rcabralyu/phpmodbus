@@ -1,5 +1,5 @@
 {
-    "name": "adduc/phpmodbus",
+    "name": "rcabralyu/phpmodbus",
     "description": "Composer version of PhpModBus",
     "license": "LGPL",
     "authors": [
